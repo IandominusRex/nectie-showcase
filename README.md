@@ -75,7 +75,9 @@ What you *can* see here: a live, working product at [nectie.co](https://nectie.c
 
 <div align="center">
 
-_A walkthrough GIF is in progress — check back shortly, or visit [nectie.co](https://nectie.co) directly._
+![Nectie walkthrough](nectie-walkthrough.gif)
+
+*Live walkthrough: the feed, map-based Discover, an event's organizer view, and the block-based portfolio builder — recorded straight from [nectie.co](https://nectie.co).*
 
 </div>
 
